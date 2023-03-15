@@ -1,0 +1,1604 @@
+{
+    "id": 4,
+    "name": "Đề Khoa học tự nhiên",
+    "description": "Đề ôn tập khtn 1- đề số 1",
+    "image": "./image/khtn.png",
+    "questions": [
+        {
+            "id": 1010,
+            "name": "Khoa học tự nhiên không bao gồm lĩnh vực nào sau đây?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Vật lý học. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Hóa học và sinh học.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Khoa học Trái Đất và Thiên văn học. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Lịch sử loài người.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1011,
+            "name": "Theo em, việc ngiên cứu sản xuất vacxin phòng Covid 19 thể hiện vai trò nào dưới đây của khoa học tự nhiên?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Bảo vệ sức khoẻ và cuộc sống của con người.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Cung cấp thông tin và nâng cao hiểu biết của con người.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Mở rộng sản xuất và phát triển kinh tế",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Bảo vệ môi trường. ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1012,
+            "name": "Vật nào dưới đây là vật sống:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Vi khuẩn",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Cành gỗ mục.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Hòn đá.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cái bàn.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1013,
+            "name": "Hoạt động nào sau đây không được xem là nghiên cứu khoa học tự nhiên?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nghiên cứu quá trình hình thành và phát triển của động vật.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Nghiên cứu sự lên xuống của thuỷ triều.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Nghiên cứu cách thức sản xuất phân bón hoá học.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Nghiên cứu sự khác nhau giữa văn hoá Việt Nam và văn hoá Trung Quốc.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1014,
+            "name": "Theo em, việc lắp ráp pin cho nhà máy điện mặt trời (hình dưới) thể hiện vai trò nào dưới đây của khoa học tự nhiên?",
+            "questionTypeId": 1,
+            "image": "./image/pin-mat-troi.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Chăm sóc sức khoẻ con người.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Nâng cao khả năng hiểu biết của con người về tự nhiên.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Hoạt động nghiên cứu khoa học.",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Ứng dụng công nghệ vào đời sống, sản xuất.",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1015,
+            "name": "Hiện tượng cây mọc hướng về phía có ánh sang khi được chiếu sang từ một phía là đặc điểm nào của vật sống:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Lớn lên",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Sinh sản",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Di chuyển",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cảm ứng",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1016,
+            "name": "Khi dùng kính hiển vi quang học để quan sát các mẫu vật, tuỳ theo mục đích quan sát mà: ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "giữ nguyên thị kính, lựa chọn các vật kính thích hợp",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "giữ nguyên thị kính và vật kính trong mọi trường hợp quan sát.",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "giữ nguyên vật kính, lựa chọn các thị kính thích hợp",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "vừa thay đổi cả vật kính và thị kính trước khi tiến hành quan sát.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1017,
+            "name": "Để lấy 2ml nước cất, nên sử dụng dụng cụ nào dưới đây là thích hợp nhất?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Cốc đong có dung tích 50ml ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Ống pipet có dung tích 5ml",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Ống nhỏ giọt có dung tích 1ml",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Ống nghiệm có dung tích 10ml",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1018,
+            "name": "Các bước đo thể tích một hòn đá:\n1. Buộc hòn đá vào một sợi dây\n2. Cầm sợi dây, nhúng hòn đá ngập trong nước ở cốc đong, mực nước trong cốc dâng lên.\n3. Đặt cốc đong trên mặt phẳng, đổ lượng nước bằng khoảng ½ thể tích cốc, đọc và ghi lại thể tích nước.\n4. Đọc và ghi lại thể tích nước. Lấy thể tích này trừ đi thể tích nước ban đầu ta tính được thể tích hòn đá.\nThứ tự thực hiện đúng các bước là: \n",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "1 – 2 – 3 - 4 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "1 – 4 – 3 – 2",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "3 – 1 – 2 – 4 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "3 – 4 – 2 – 1",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1019,
+            "name": "Các kính lúp thông thường có khả năng phóng to ảnh của một vật:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "từ 50 lần đến 100 lần",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "từ 30 lần đến 50 lần ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "từ 3 lần đến 20 lần",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "từ 100 lần đến 200 lần",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1020,
+            "name": "Để đo thể tích chất lỏng, em dùng dụng cụ nào dưới đây? ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Bình chia độ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Ống nghiệm.        ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Ống nhỏ giọt. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Bình thuỷ tinh.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1021,
+            "name": "Nếu muốn quan sát gân lá, em nên sử dụng loại kính nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Kính hiển vi        ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Kính râm            ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Kính lúp   ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Kính cận.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1022,
+            "name": "Thao tác nào là sai khi dùng cân đồng hồ?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Đặt vật cân bằng trên đĩa cân      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Đọc kết quả khi cân khi đã ổn định         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Đặt mắt vuông góc với mặt đồng hồ  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Đặt cân trên bề mặt không bằng phẳng",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1023,
+            "name": "Để đo khối lượng của một vật ta dùng dụng cụ nào?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Thước đo.                     ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "  Kính hiển vi.                ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Cân ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Kính lúp.",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1024,
+            "name": "Để đo thời gian chạy ngắn 100m ta sử dụng đồng hồ nào để đo là hợp lí nhất ?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Đồng hồ đeo tay                    ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "  Đồng hồ điện tử               ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Đồng hồ bấm giây ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Đồng hồ quả lắc.                                     ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1025,
+            "name": "Đo chiều dài của chiếc bút chì theo cách nào sau đây là hợp lí nhất?",
+            "questionTypeId": 1,
+            "image": "./image/thuoc-do.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Đáp án A            ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Đáp án B               ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Đáp án C ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Đáp án D                                 ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1026,
+            "name": "Hãy cho biết giới hạn đo và độ chia nhỏ nhất của thước kẻ trong hình sau:",
+            "questionTypeId": 1,
+            "image": "./image/thuoc-do-2.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Giới hạn đo là 30 cm và độ chia nhỏ nhất là 1 mm.        ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Giới hạn đo là 30 mm và độ chia nhỏ nhất là 1 mm. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Giới hạn đo là 30 cm và độ chia nhỏ nhất là 1 cm.          ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Giới hạn đo là 3 cm và độ chia nhỏ nhất là 1 mm                              ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1027,
+            "name": "1 tấn thì bằng bao nhiêu kilogam:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "500kg      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "1000kg ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 10000kg         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "100kg                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1053,
+            "name": "Một chất có mùi thơm bay ra từ lọ nước hoa làm ta có thể ngửi thấy mùi thơm. Điều này thể hiện tính chất nào của thể khí?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Có thể lan tỏa trong không gian theo mọi hướng      ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Không có hình dạng xác định ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Dễ dàng bị nén vào bình         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Có thể chảy được trên mặt sàn.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1052,
+            "name": "Đặc điểm cơ bản để phân biệt vật thể hữu sinh( vật sống) và vật thể vô sinh ( vật không sống) là:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Vật thể vô sinh là vật thể tự nhiên, vật thể hữu sinh là vật thể nhân tạo.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vật thể vô sinh có các đặc điểm như trao đổi chất và năng lượng, sinh trưởng và phát triển, sinh sản, cảm ứng còn vật thể hữu sinh thì không. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vật thể hữu sinh có  đặc điểm là luôn luôn sinh sản, còn vật thể vô sinh thì không.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Vật thể hữu sinh có các đặc điểm như trao đổi chất và năng lượng, sinh trưởng và phát triển, sinh sản, cảm ứng còn vật thể vô sinh thì không.                          ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1051,
+            "name": "….… có hình dạng và thể tích nhất định",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Cả 3 chất rắn, lỏng, khí.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chất lỏng ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Chất khí         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Chất rắn                          ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1050,
+            "name": "Vật thể nhân tạo là",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Là vật sống      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Là vật thể có sẵn trong tự nhiên. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vật thể do con người tạo ra để phục vụ cuộc sống.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Là vật có khả năng tự di chuyển được.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1049,
+            "name": "Vật thể tự nhiên là",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Vật thể có sẵn trong tự nhiên      ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vật thể do con người tạo ra  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Là vật thể đẹp hơn vật thể nhân tạo         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Là vật không sống.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1048,
+            "name": "Phát biểu nào sau đây là đúng?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Độ lớn của lực được đo bẳng cân.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Độ lớn của lực tác dụng lên vật được đo bằng khối lượng của vật ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Hai lực cân bằng là hai lực có độ lớn không bằng nhau.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Độ lớn của lực được đo bằng lực kế                          ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1047,
+            "name": "Trường hợp nào dưới đây cho ta biết khi chịu tác dụng của lực thì vật vừa bị biến dạng vừa bị biến đổi chuyển động.",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Gió thổi rung cành lá.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Sau khi đập vào mặt vợt quả bóng tennis bị bật ngược trờ lại ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Một vật đang rơi từ trên cao xuống         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Khi hãm phanh xe đạp chạy chậm dần.                           ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1046,
+            "name": "Buộc một đầu dây cao su lên giá đỡ rồi treo vào đầu còn lại một vật nặng là một túi nilong đựng nước. Dựa vào dấu hiệu nào sau đây để biết túi nilong đựng nước tác dụng vào dây cao su một lực?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Túi nilong đựng nước không rơi      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Túi nilong đựng nước bị biến dạng. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Dây cao su dãn ra.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Cả dây cao su và túi nilong bị rơi.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1045,
+            "name": "Một hòn đá bị ném mạnh vào một hòn đất. Lực mà hòn đá tác dụng vào đống đất: ",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Chỉ làm hòn đất bị biến dạng.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chỉ làm biến đổi chuyển động của hòn đất. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Làm cho hòn đất bị biến dạng, đồng thời làm biến đổi chuyển động của hòn đất.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Không gây ra tác dụng gì cả.                           ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1044,
+            "name": "Bạn Hùng đá vào một quả bóng cao su đang nằm yên trên mặt đất làm quả bóng:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Biến dạng      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vừa biến dạng vừa biến đổi chuyển động ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vẫn đứng yên         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Chỉ bị biến đổi chuyển động                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1043,
+            "name": "Từ “lực” trong câu nào dưới đây chỉ sự kéo hoặc đẩy?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Lực bất tòng tâm.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Lực lượng vũ trang ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Học lực của bạn Hải rất tốt.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Bạn học sinh quá yếu, không đủ lực nâng nổi một đầu bàn học.                           ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1042,
+            "name": "Khi  một quả bóng đập xuống sân bóng thì sân tác dụng lực lên quả bóng sẽ gây ra những kết quả gì?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Chỉ làm thay đổi chuyển động của quả bóng.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chỉ làm biến dạng quả bóng. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vừa làm biến dạng quả bóng, vừa làm thay đổi chuyển động của nó.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Không làm biến dạng và cũng không làm thay đổi chuyển động của quả bóng.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1041,
+            "name": "Quan sát sơ đồ cấu tạo tế bào thực vật và tế bào động vật dưới đây.\nThành phần nào không khác nhau ở hai loại tế bào trên?",
+            "questionTypeId": 1,
+            "image": "./image/nhan-tb-02.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nhân      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Lục lạp ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Vách         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Không bào                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1040,
+            "name": "Quan sát tế bào bên và cho biết mũi tên đang chỉ vào thành phần nào của tế bào,",
+            "questionTypeId": 1,
+            "image": "./image/nhan-tb.png",
+
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Màng tế bào.       ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Vùng nhân ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Chất tế bào.          ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Nhân tế bào.                           ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1039,
+            "name": "Quan sát tế bào bên và cho biết mũi tên đang chỉ vào thành phần nào của tế bào.",
+            "questionTypeId": 1,
+            "image": "./image/nhan-te-bao.png",
+
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Màng tế bào      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Chất tế bào. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Nhân tế bào.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Vùng nhân                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1038,
+            "name": "Cho các phát biểu sau: \n1)\tTế bào là đơn vị cơ sở và cấu trúc của sự sống:\n2)\tHoạt động của tế bào là cơ sở mọi hoạt động sống của cơ thể.\n3)\tTế bào cấu tạo cơ thể người là tế bào nhân sơ.\n4)\tTế bào động vật, tế bào thực vật đều có khả năng lớn lên và sinh sản.\n5)\tTế bào nhân thực vật hay tế bào nhân động vật đều là tế bào nhân thực.\nCác phát biểu đúng là:\n",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "1,2,4,5      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "2,3,4,5 ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 1,3,4,5         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "1,2,3,4                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1037,
+            "name": "Trong cơ thể sinh vật, ba tế bào bắt đầu quá trình sinh sản để tạo nên các tế bào mới. Nếu những tế bào này đều thực hiện hai lần sinh sản liên tiếp thì sẽ tạo ra được bao nhiêu tế bào con?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "24 tế bào con      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "6 tế bào con ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 12 tế bào con         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "3 tế bào con                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1036,
+            "name": "Hình sau đây mô tả nhiệt kế dùng chất lỏng. Làm thế nào để tăng độ nhạy của nhiệt kế này?",
+            "questionTypeId": 1,
+            "image": "./image/nhiet-ke-02.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Làm cho ống nhiệt kế hẹp lại.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Khi đo phải hiệu chỉnh cẩn thận. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Làm cho ống nhiệt kế dài hơn.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Làm cho các vạch chia gần nhau hơn.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1035,
+            "name": "Giới hạn đo (GHĐ) và độ chia nhỏ nhất (ĐCNN) của nhiệt kế này là bao nhiêu?",
+            "questionTypeId": 1,
+            "image": "./image/nhiet-ke.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "GHĐ: từ 35 độ C đến 42 độ C, ĐCNN: 0,1 độ C      ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "GHĐ: từ 35 độ C đến 60 độ C, ĐCNN: 0,1 độ C      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "GHĐ: từ 35 độ C đến 42 độ C, ĐCNN: 1 độ C      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "GHĐ: từ 38 độ C đến 42 độ C, ĐCNN: 0,1 độ C      ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1034,
+            "name": "Một trong những triệu chứng của người bị nhiễm Covid-19 là gì?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Nhiệt độ cơ thể ở 36 độ C      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": " Nhiệt độ cơ thể ở 35 độ C ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Nhiệt độ cơ thể sốt cao trên 37,5 độ C         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Nhiệt độ cơ thể thấp hơn 36 độ C                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1033,
+            "name": "Có thể dùng nhiệt kế y tế để đo nhiệt độ nước sôi được không ? Vì sao?",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Được, vì nhiệt kế để đo nhiệt độ.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Không, vì sẽ bị bỏng tay. ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " Không, vì nhiệt kế y tế chỉ có giới hạn đo là 42 độ C.         ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Được, vì chất lỏng trong nhiệt kế y tế là thủy ngân.                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1032,
+            "name": "Công dụng của nhiệt kế y tế là",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "dùng để đo nhiệt độ khí quyển      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "dùng để đo nhiệt độ trong các thí nghiệm ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " dùng để đo sự nở vì nhiệt         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "dùng để đo nhiệt độ cơ thể con người                          ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1031,
+            "name": "Nhiệt kế (thường dùng) hoạt động dựa trên",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "sự nở vì nhiệt của chất khí.      ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "sự nở vì nhiệt của chất lỏng. ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " sự thay đổi màu sắc của một vật theo nhiệt độ.         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "hiện tượng nóng chảy của các chất                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1030,
+            "name": "Trong thang nhiệt độ Xen-xi-ớt, nhiệt độ của hơi nước đang sôi là:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "100 độ C.                     ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "0 độ C ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 50 độ C         ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "78 độ C                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1029,
+            "name": "Người ta sử dụng các thiết bị như hình dưới đây để đo khối lượng của 1 cm3 nước bằng cách chia khối lượng của nước cho thể tích của nó đo bẳng cm3 \n \n(1). Đổ 50 cm3 nước vào ống đong\n(2). Chia khối lượng của nước cho 50\n(3). Lấy ống đong rỗng ra khỏi cân.\n(4). Đặt ống đong rỗng lên cân\n(5). Lấy khối lượng của ống đong chứa nước trừ đi khối lượng của ống đong rỗng.\n(6). Ghi lại khối lượng của ống đong rỗng.\n(7). Ghi lại khối lượng của ống đong và nước.\n(8). Đặt lại ống đong chưa nước lên cân.\nCác phát biểu trên đây mô tả các bước thực hiện cách đo nhưng chúng không theo thứ tự, em hãy sắp xếp cho đúng các bước:\n",
+            "questionTypeId": 1,
+            "image": "./image/khtn-05.png",
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "(6) – (4) – (3) – (1) – (8) – (7) – (5) – (2)                             ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "(4) – (3) – (6) – (2) – (8) – (7) – (5) – (1)   ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " (4) – (6) – (3) – (8) – (1) – (7) – (2) – (5)                                                  ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "(4) – (6) – (3) – (1) – (8) – (7) – (5) – (2)                                                 ",
+                    "isAnswer": true
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        },
+        {
+            "id": 1028,
+            "name": "Sắp xếp các bước thực hiện khi dùng nhiệt kế để đo nhiệt độ của chính cơ thể mình:\n(1) Thực hiện đo nhiệt độ\n(2) Hiệu chỉnh nhiệt kế\n(3) Ước lượng nhiệt độ\n(4) Đọc kết quả đo nhiệt độ\n(5) Chọn nhiệt kế phù hợp\n",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "2-4-3-1-5                                                    ",
+                    "isAnswer": false
+                },
+
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": " 5-3-2-1-4                                                       ",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "3-5-2-1-4 ",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "3-5-2-4-1                          ",
+                    "isAnswer": false
+                }
+            ],
+            "questionType": {
+                "id": 1,
+                "name": "Multiple Choice",
+                "isActive": true
+            }
+        }
+    ]
+}
