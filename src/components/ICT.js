@@ -2,7 +2,7 @@ import React from "react";
 import {Link} from "react-router-dom";
 
 const ict = [
-    { question: "Mạng ARPANET hình thành vào khoảng năm nào?", answer: "1969" },
+    { question: "Mạng ARPANET hình thành vào khoảng năm nào?", answer: "1969"},
     { question: "OSP là viết tắt của cụm từ tiếng Anh nào?", answer: "OSP là viết tắt của cụm từ tiếng Anh nào?" },
     { question: "Khi nói về quá trình phát triển E-learning, có 2 phát biểu như sau:\n" +
             "PB1: Trước năm 1983: phương pháp giáo dục “Lấy giảng viên làm trung tâm” là phương pháp phổ biến nhất trong các trường học.\n" +
