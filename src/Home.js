@@ -9,9 +9,9 @@ const Home = () => {
         display:'inline-block'
     };
 
-
     return (
         <div >
+
             <p>Welcome to Question Bank</p>
             <p><Link className={linkStyle} to="/ict">Internet và Elearning</Link></p>
             <p><Link className={linkStyle} to="/psd">Phát triển bản thân</Link></p>
