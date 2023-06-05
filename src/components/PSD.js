@@ -1048,9 +1048,11 @@ const books = [
 
 const PSD = () => {
     const [searchText, setSearchText] = React.useState("");
+    const [secretKey, setSecretKey] = React.useState("");
+    const [check, setCheck] = React.useState(false);
 
     const filteredBooks = books.filter(
-        ({ question, answer,subject }) =>
+        ({question, answer, subject}) =>
             question.toLowerCase().includes(searchText.toLowerCase()) ||
             answer.toLowerCase().includes(searchText.toLowerCase())
     );
@@ -1060,19 +1062,31 @@ const PSD = () => {
         <div >
             <p><Link to="/">Home</Link></p>
             <input
+                type="text" placeholder="Key bí mật"
+                value={secretKey}
+                onChange={({target}) => {
+                    setSecretKey(target.value);
+                    if (secretKey === "aum30dhktqd")
+                        setCheck(true);
+                }}
+            />
+            <input
                 type="text" placeholder="Từ khoá psd"
                 value={searchText}
-                onChange={({ target }) => setSearchText(target.value)}
+                onChange={({target}) => setSearchText(target.value)}
             />
-            <ul>
-                {filteredBooks.map(({ question, answer }) => (
-                    <li key={answer}>
-                        <strong>{answer}</strong>
-                        <br/>
-                        <p>{question}</p>
-                    </li>
-                ))}
-            </ul>
+
+            {
+                check ? <ul>
+                    {filteredBooks.map(({question, answer}) => (
+                        <li key={answer}>
+                            <strong>{answer}</strong>
+                            <br/>
+                            <p>{question}</p>
+                        </li>
+                    ))}
+                </ul> : null
+            }
         </div>
     );
 };
