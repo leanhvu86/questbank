@@ -78,3 +78,6 @@ node_modules/.cache/babel-loader/d834f0db19c15d4a6e8be30468c6f0c3.json
 node_modules/.package-lock.json
 node_modules/.package-lock.json
 node_modules/.package-lock.json
+*.json
+node_modules/.package-lock.json
+package-lock.json

@@ -3,33 +3,13 @@ import {Link} from "react-router-dom";
 
 const books = [
     {
-        answer: `Đáp án đúng là: E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông.
-		Vì:
-		Có nhiều quan điểm, định nghĩa khác nhau về e-learning, dưới đây sẽ trích ra một số định nghĩa e-learning đặc trưng nhất:
-		E-learning là sử dụng các công nghệ Web và Internet trong học tập (William Horton).
-		E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông (Compare Infobase Inc).
-		E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục (MASIE Center).
-		Tham khảo: Bài 1, mục 1.2.3. Một số định nghĩa tiêu biểu về e-learning (BG, tr.9).
-		`,
-        question: `Theo định nghĩa của Compare Infobase Inc thì E-Learning là gì?`
-    },
-    {
         answer: `Đáp án đúng là: Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ.
 		Vì: Năm 1969, hình thành mạng ARPANET. Đây là mạng máy tính do Bộ Quốc phòng Mỹ thiết lập, khi đó, cơ quan quản lý dự án nghiên cứu cấp cao của Bộ Quốc phòng Mỹ (ARPA - Advanced Research Project Agency) đã đề nghị liên kết 4 điểm bao gồm: Viện Nghiên cứu Standford, Trường Đại học tổng hợp California tại LosAngeles, UC - Santa Barbara và Trường Đại học tổng hợp Utah. Bốn điểm trên được nối thành mạng vào năm 1969 đã đánh dấu sự ra đời của Internet ngày nay. Mạng này được biết đến dưới cái tên ARPANET là một mạng thử nghiệm phục vụ các nghiên cứu quốc phòng.
 		Tham khảo: Bài 1, mục 1.1.2. Lịch sử phát triển Internet (BG, tr.3).
 		The correct answer is: Từ một dự án nghiên cứu của Bộ quốc phòng Mỹ.`,
         question: `Internet được hình thành từ dự án nào sau đây?`
     },
-    {
-        answer: `Đáp án đúng là: E-learning là sử dụng các công nghệ Web và Internet trong học tập.
-		Vì:
-		Có nhiều quan điểm, định nghĩa khác nhau về e-learning, dưới đây sẽ trích ra một số định nghĩa e-learning đặc trưng nhất:
-		E-learning là sử dụng các công nghệ Web và Internet trong học tập (William Horton).
-		E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông (Compare Infobase Inc).
-		E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục (MASIE Center).
-		Tham khảo: Bài 1, mục 1.2.3. Một số định nghĩa tiêu biểu về e-learning (BG, tr.9).`,
-        question: `Theo định nghĩa của William Horton thì E-Learning là gì?`
-    },
+
     {
         answer: `Đáp án đúng là: Online Service Provider.
 		Vì: OSP (Online Service Provider) Nhà cung cấp dịch vụ ứng dụng Internet. OSP cung cấp các dịch vụ trên cơ sở ứng dụng Internet như: mua bán qua mạng, giao dịch ngân hàng, tư vấn, đào tạo, …
@@ -161,17 +141,7 @@ PB2: ICP cung cấp các thông tin về: kinh tế, giáo dục, thể thao, ch
 Hỏi khẳng định nào sau đây là đúng?
 `
     },
-    {
-        answer: `Đáp án đúng là: E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông.
-Vì:
-Có nhiều quan điểm, định nghĩa khác nhau về e-learning, dưới đây sẽ trích ra một số định nghĩa e-learning đặc trưng nhất:
-E-learning là sử dụng các công nghệ Web và Internet trong học tập (William Horton).
-E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông (Compare Infobase Inc).
-E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục (MASIE Center).
-Tham khảo: Bài 1, mục 1.2.1. Khái niệm về e-learning (BG, tr.8) và mục 1.2.3. Một số định nghĩa tiêu biểu về e-learning (BG, tr.9).
-`,
-        question: `Chọn phát biểu SAI?`
-    },
+
     {
         answer: `Đáp án đúng là: PB1 đúng, PB2 sai.
 Vì:
@@ -222,17 +192,7 @@ Tham khảo: Bài 1, mục 1.2.2. Quá trình phát triển e-learning (BG, tr.8
 CBT là viết tắt của cụm từ tiếng Anh nào?
 `
     },
-    {
-        answer: `Đáp án đúng là: E-learning là sử dụng các công nghệ Web và Internet trong học tập.
-Vì:
-Có nhiều quan điểm, định nghĩa khác nhau về e-learning, dưới đây sẽ trích ra một số định nghĩa e-learning đặc trưng nhất:
-E-learning là sử dụng các công nghệ Web và Internet trong học tập (William Horton).
-E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông (Compare Infobase Inc).
-E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục (MASIE Center).
-Tham khảo: Bài 1, mục 1.2.3. Một số định nghĩa tiêu biểu về e-learning (BG, tr.9).
-`,
-        question: `Theo định nghĩa của William Horton thì E-Learning là gì?`
-    },
+
     {
         answer: `Đáp án đúng là: PB1 đúng, PB2 sai.
 Vì:
@@ -1708,52 +1668,131 @@ Hỏi khẳng định nào dưới đây là đúng?
         question: `Việc ghi nhớ địa chỉ email của người khác là khá khó khăn. Chức năng nào dưới đây của
 Yahoo Mail hỗ trợ bạn trong việc ghi nhớ địa chỉ email?
 `
+    },
+    {
+        answer: `Đáp án đúng là: E-learning là một thuật ngữ dùng để mô tả việc học tập không dựa trên công nghệ thông tin và truyền thông.
+Vì:
+Có nhiều quan điểm, định nghĩa khác nhau về e-learning, dưới đây sẽ trích ra một số định nghĩa e-learning đặc trưng nhất:
+E-learning là sử dụng các công nghệ Web và Internet trong học tập (William Horton).
+E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông (Compare Infobase Inc).
+E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục (MASIE Center).
+Tham khảo: Bài 1, mục 1.2.1. Khái niệm về e-learning (BG, tr.8) và mục 1.2.3. Một số định nghĩa tiêu biểu về e-learning (BG, tr.9).
+`,
+        question: `Chọn phát biểu SAI?`
+    },
+    {
+        answer: `Đáp án đúng là: E-learning là sử dụng các công nghệ Web và Internet trong học tập.
+Vì:
+Có nhiều quan điểm, định nghĩa khác nhau về e-learning, dưới đây sẽ trích ra một số định nghĩa e-learning đặc trưng nhất:
+E-learning là sử dụng các công nghệ Web và Internet trong học tập (William Horton).
+E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông (Compare Infobase Inc).
+E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục (MASIE Center).
+Tham khảo: Bài 1, mục 1.2.3. Một số định nghĩa tiêu biểu về e-learning (BG, tr.9).
+`,
+        question: `Theo định nghĩa của William Horton thì E-Learning là gì?`
+    },{
+        answer: `Đáp án đúng là: E-learning là sử dụng các công nghệ Web và Internet trong học tập.
+		Vì:
+		Có nhiều quan điểm, định nghĩa khác nhau về e-learning, dưới đây sẽ trích ra một số định nghĩa e-learning đặc trưng nhất:
+		E-learning là sử dụng các công nghệ Web và Internet trong học tập (William Horton).
+		E-learning là một thuật ngữ dùng để mô tả việc học tập, đào tạo dựa trên công nghệ thông tin và truyền thông (Compare Infobase Inc).
+		E-learning nghĩa là việc học tập hay đào tạo được chuẩn bị, truyền tải hoặc quản lý sử dụng nhiều công cụ của công nghệ thông tin, truyền thông khác nhau và được thực hiện ở mức cục bộ hay toàn cục (MASIE Center).
+		Tham khảo: Bài 1, mục 1.2.3. Một số định nghĩa tiêu biểu về e-learning (BG, tr.9).`,
+        question: `Theo định nghĩa của William Horton thì E-Learning là gì?`
     }
 
 ];
 
-const ICT = () => {
-    const [searchText, setSearchText] = React.useState("");
-    const [secretKey, setSecretKey] = React.useState("");
-    const [check, setCheck] = React.useState(false);
 
-    const filteredBooks = books.filter(
-        ({question, answer, subject}) =>
-            question.toLowerCase().includes(searchText.toLowerCase()) ||
-            answer.toLowerCase().includes(searchText.toLowerCase())
-    );
+class PSD extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            searchText: "",
+            secretKey: "",
+            check: false,
+            listBook: [],
+            filteredBooks: []
+        };
+        this.handleChange = this.handleChange.bind(this);
 
-    return (
+    }
 
-        <div>
-            <p><Link to="/">Home</Link></p>
-            <input
-                type="text" placeholder="Key bí mật"
-                value={secretKey}
-                onChange={({target}) => {
-                    setSecretKey(target.value);
-                    if (secretKey === "aum30dhktqd")
-                        setCheck(true);
-                }}
-            />
-            <input
-                type="text" placeholder="Từ khoá psd"
-                value={searchText}
-                onChange={({target}) => setSearchText(target.value)}
-            />
+    componentDidMount() {
+        let listTemp = []
+        books.forEach(({question, answer, subject}) => {
+            listTemp.push({question, answer, key: this.convertStr(answer)})
+        });
+        this.setState({listBook: listTemp});
+        console.log(listTemp);
+    }
 
-            {
-                check ? <ul>
-                    {filteredBooks.map(({question, answer}) => (
-                        <li key={answer}>
+    convertStr(string) {
+        return string.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+
+    handleChange(event) {
+        const target = event.target;
+        const value = target.value;
+        const name = target.name;
+
+        this.setState({
+            [name]: value
+        });
+        // if (name === 'secretKey') {
+        //     if (value === "aum30dhktqd") {
+        //         this.setState({check: true});
+        //         console.log(value)
+        //     }
+        // }
+        // if (name === 'searchText') {
+        let filteredBooks = this.state.listBook.filter(
+            ({question, answer, key}) =>
+                question.toLowerCase().includes(this.convertStr(value.toLowerCase()))
+                ||
+                answer.toLowerCase().includes(this.convertStr(value.toLowerCase()))
+                ||
+                key.toLowerCase().includes(this.convertStr(value.toLowerCase()))
+        );
+        this.setState({filteredBooks: filteredBooks});
+        // }
+
+
+    }
+
+    render() {
+
+        return (
+
+            <div>
+                <p><Link to="/">Home</Link></p>
+                {/*<input*/}
+                {/*    type="text" placeholder="Key bí mật"*/}
+                {/*    value={this.state.secretKey}*/}
+                {/*    name="secretKey"*/}
+                {/*    onChange={this.handleChange}*/}
+                {/*/>*/}
+                <input
+                    type="text" placeholder="Từ khoá psd"
+                    value={this.state.searchText}
+                    name="searchText"
+                    onChange={this.handleChange}/>
+
+                {/*{*/}
+                {/*// this.state.check === true ?*/}
+                <ul>
+                    {this.state.filteredBooks.map(({question, answer,index}) => (
+                        <li key={index}>
                             <strong>{answer}</strong>
                             <br/>
                             <p>{question}</p>
                         </li>
                     ))}
-                </ul> : null
-            }
-        </div>
-    );
+                </ul>
+                {/*// : null*/}
+                {/*// }*/}
+            </div>
+        )
+    }
 };
-export default (ICT);
+export default (PSD);
