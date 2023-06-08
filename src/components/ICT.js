@@ -1704,7 +1704,7 @@ Tham khảo: Bài 1, mục 1.2.3. Một số định nghĩa tiêu biểu về e-
 ];
 
 
-class PSD extends React.Component {
+class ICT extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -1795,4 +1795,4 @@ class PSD extends React.Component {
         )
     }
 };
-export default (PSD);
+export default (ICT);
