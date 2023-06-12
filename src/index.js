@@ -5,6 +5,7 @@ import {BrowserRouter, Route, Routes,} from "react-router-dom";
 import Home from "./Home";
 import ICT from "./components/ICT";
 import PSD from "./components/PSD";
+import TH from "./components/TRIETHOC";
 
 
 
@@ -18,6 +19,7 @@ const App = () => {
                 <Route path="/" element={<Home />} />
                 <Route path="/ict" element={<ICT />} />
                 <Route path="/psd" element={<PSD />} />
+                <Route path="/th" element={<TH />} />
             </Routes>
         </BrowserRouter>
     );

@@ -1815,9 +1815,9 @@ class ICT extends React.Component {
                 <ul>
                     {this.state.filteredBooks.map(({question, answer,index}) => (
                         <li key={index}>
-                            <strong>{answer}</strong>
+                            <strong>{ question}</strong>
                             <br/>
-                            <p>{question}</p>
+                            <p>{answer}</p>
                         </li>
                     ))}
                 </ul>

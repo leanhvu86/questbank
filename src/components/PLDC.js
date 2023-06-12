@@ -1046,7 +1046,7 @@ const library = [
 
 ];
 
-class PSD extends React.Component {
+class PLDC extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -1130,4 +1130,4 @@ class PSD extends React.Component {
         )
     }
 };
-export default (PSD);
+export default (PLDC);
