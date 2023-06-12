@@ -1061,12 +1061,8 @@ class PSD extends React.Component {
     }
 
     componentDidMount() {
-        let listTemp = []
-        library.forEach(({question, answer, subject}) => {
-            listTemp.push({question, answer, key: this.convertStr(answer)})
-        });
-        this.setState({listBook: listTemp});
-        console.log(listTemp);
+        this.setState({listBook: library});
+        console.log(library);
     }
 
     convertStr(string) {
@@ -1090,11 +1086,9 @@ class PSD extends React.Component {
         // if (name === 'searchText') {
         let filteredBooks = this.state.listBook.filter(
             ({question, answer, key}) =>
-                question.toLowerCase().includes(this.convertStr(value.toLowerCase()))
+                this.convertStr(question).toLowerCase().includes(this.convertStr(value.toLowerCase()))
                 ||
-                answer.toLowerCase().includes(this.convertStr(value.toLowerCase()))
-                ||
-                key.toLowerCase().includes(this.convertStr(value.toLowerCase()))
+                this.convertStr(answer).toLowerCase().includes(this.convertStr(value.toLowerCase()))
         );
         this.setState({filteredBooks: filteredBooks});
         // }
