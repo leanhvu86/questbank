@@ -6,16 +6,15 @@ const Home = () => {
         margin: "1rem",
         textDecoration: "none",
         color: 'black',
-        display:'inline-block'
+        display: 'inline-block'
     };
 
     return (
-        <div >
-
+        <div>
             <p>Welcome to Question Bank</p>
             <p><Link className={linkStyle} to="/ict">Internet và Elearning</Link></p>
             <p><Link className={linkStyle} to="/psd">Phát triển bản thân</Link></p>
-            <p><Link className={linkStyle} to="/triethoc">Triết học</Link></p>
+            <p><Link className={linkStyle} to="/th">Triết Học </Link></p>
         </div>
     );
 };
