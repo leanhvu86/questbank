@@ -6,6 +6,7 @@ import Home from "./Home";
 import ICT from "./components/ICT";
 import PSD from "./components/PSD";
 import TH from "./components/TRIETHOC";
+import VIMO from "./components/VIMO";
 
 
 
@@ -20,6 +21,7 @@ const App = () => {
                 <Route path="/ict" element={<ICT />} />
                 <Route path="/psd" element={<PSD />} />
                 <Route path="/th" element={<TH />} />
+                <Route path="/vm" element={<VIMO />} />
             </Routes>
         </BrowserRouter>
     );

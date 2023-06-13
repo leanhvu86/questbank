@@ -4,7 +4,8 @@ import {Link} from "react-router-dom";
 const library = [
     {
         answer: "The correct answer is: Rụt rè, ngại giao tiếp với người khác",
-        question: "Một người tự ty về bản thân thường có biểu hiện như thế nào?"
+        question: "Một người tự ty về bản thân thường có biểu hiện như thế nào?",
+        image:"fdsfsdf"
     },
     {
         answer: "The correct answer is: Phần công khai/ Open",
@@ -1115,12 +1116,12 @@ class PSD extends React.Component {
                 {/*{*/}
                 {/*// this.state.check === true ?*/}
                 <ul>
-                    {this.state.filteredBooks.map(({question, answer,index}) => (
+                    {this.state.filteredBooks.map(({question, answer,image,index}) => (
                         <li key={index}>
                             <strong>{ question}</strong>
                             <br/>
                             <p>{answer}</p>
-                            {/*<img src="./image/nhan-tb.png"/>*/}
+                            {/*{image!==undefined&&image!==''?<img src="./image/nhan-tb.png"/>:null}*/}
                         </li>
                     ))}
                 </ul>
